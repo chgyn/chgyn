@@ -3,7 +3,7 @@
 # Olá, eu sou o **Charles Egidio** 👋
 ### **Software Engineer | Full-Stack & DevOps**
 
-[![Portfolio](https://img.shields.io/badge/Website-chgyn.com.br-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chgyn.com.br)
+[![Portfolio](https://img.shields.io/badge/Website-chgyn.com.br-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlesegidio.online)
 [![Portfólio PDF](https://img.shields.io/badge/Portf%C3%B3lio-PDF%20(2026)-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./WiiD%20-%20Portf%C3%B3lio%202026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesegidio)
 [![Email](https://img.shields.io/badge/Email-charles%40wi--id.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charles@wi-id.com)
@@ -28,7 +28,7 @@ Engenheiro de Software apaixonado por resolver problemas complexos e construir s
 #### 💻 **Backend & Frameworks**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![.GO](https://img.shields.io/badge/GoLang-3776AB?style=for-the-badge&logo=go&logoColor=white)
+![.GO](https://img.shields.io/badge/GoLang-3178C6?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
