@@ -3,10 +3,10 @@
 # Olá, eu sou o **Charles Egidio** 👋
 ### **Software Engineer | Full-Stack & DevOps**
 
-[![Portfolio](https://img.shields.io/badge/Website-chgyn.com.br-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlesegidio.online)
+[![Portfolio](https://img.shields.io/badge/Website-charlesegidio.online-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlesegidio.online)
 [![Portfólio PDF](https://img.shields.io/badge/Portf%C3%B3lio-WEB-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://charlesegidio.online/#projetos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesegidio)
-[![Email](https://img.shields.io/badge/Email-charles%40wi--id.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesegidio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-charlesegidio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesegidio@gmail.com)
 
 </div>
 
