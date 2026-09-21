@@ -4,9 +4,9 @@
 ### **Software Engineer | Full-Stack & DevOps**
 
 [![Portfolio](https://img.shields.io/badge/Website-chgyn.com.br-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlesegidio.online)
-[![Portfólio PDF](https://img.shields.io/badge/Portf%C3%B3lio-PDF%20(2026)-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./WiiD%20-%20Portf%C3%B3lio%202026.pdf)
+[![Portfólio PDF](https://img.shields.io/badge/Portf%C3%B3lio-WEB-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://charlesegidio.online/#projetos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesegidio)
-[![Email](https://img.shields.io/badge/Email-charles%40wi--id.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charles@wi-id.com)
+[![Email](https://img.shields.io/badge/Email-charles%40wi--id.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesegidio@gmail.com)
 
 </div>
 
