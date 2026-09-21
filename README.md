@@ -17,9 +17,8 @@
 Engenheiro de Software apaixonado por resolver problemas complexos e construir soluções escaláveis de ponta a ponta. Atuo desde o desenvolvimento **Backend** e **Frontend** até a **arquitetura de infraestrutura, containerização e automação de deploys (CI/CD)**.
 
 - 🌍 **Localização:** Goiânia - GO, Brasil
-- 🖥️ **Portfólio Web:** [chgyn.com.br](https://chgyn.com.br)
-- 📄 **Portfólio PDF:** [WiiD - Portfólio 2026.pdf](./WiiD%20-%20Portf%C3%B3lio%202026.pdf)
-- ✉️ **Contato Direto:** [charles@wi-id.com](mailto:charles@wi-id.com)
+- 🖥️ **Portfólio Web:** [charlesegidio.online](https://charlesegidio.online/))
+- ✉️ **Contato Direto:** [charlesegidio@gmail.com](mailto:charlesegidio@gmail.com)
 - 🤝 **Aberto a colaborações:** Disponível para projetos desafiadores!
 
 ---
